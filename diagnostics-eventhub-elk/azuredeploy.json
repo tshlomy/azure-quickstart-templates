@@ -170,7 +170,7 @@
     },
     "_artifactsLocation": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/diagnostics-eventhub-elk",
+      "defaultValue": "https://github.com/tshlomy/azure-quickstart-templates/edit/master/diagnostics-eventhub-elk",
       "metadata": {
         "description": "Change this value to your repo name if deploying from a fork"
       }
